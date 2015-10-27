@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MirandaCorcoran]]></title>
         <description><![CDATA[MirandaCorcoran]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mirandacorcoran/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 20:16:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 20:17:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mirandacorcoran/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sketch Models]]></title>
+            <description><![CDATA[<article><h1>Sketch Models</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3884187-9e45-427d-9883-7e44d8e3f5e1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mirandacorcoran/sketch-models/index.html</link>
+            <guid isPermaLink="false">6a55e6ae-f8a6-416c-8809-3b2937a3cf88</guid>
+            <pubDate>Tue, 27 Oct 2015 20:17:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Embedded Intelligence]]></title>
             <description><![CDATA[<article><h1>Embedded Intelligence</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee38b463-b909-4c1a-8ed8-9caf9a828700.jpg"></article>]]></description>
-            <link>undefinedembedded-intelligence/index.html</link>
+            <link>https://thegrid.ai/mirandacorcoran/embedded-intelligence/index.html</link>
             <guid isPermaLink="false">74568800-f2d2-465e-84a1-9bd38eb4cb8c</guid>
             <pubDate>Tue, 27 Oct 2015 20:16:47 GMT</pubDate>
         </item>
