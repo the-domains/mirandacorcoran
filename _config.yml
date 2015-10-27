@@ -1,0 +1,23 @@
+name: MirandaCorcoran
+favicon: null
+layout_spectrum: 0.09021341311745346
+typography_spectrum: 0.34344664379023015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9151150074321777
+  lightness: 0.34253492928110063
+  saturation: 0.9277038094587624
+  rhythmicContrast: 0.9295638152398169
+purpose: []
