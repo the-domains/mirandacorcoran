@@ -1,7 +1,7 @@
 name: MirandaCorcoran
 favicon: null
 layout_spectrum: 0.50296
-typography_spectrum: 0.54451
+typography_spectrum: 0.53063
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#616161'
     - '#b0b0b0'
     - '#888888'
-  brandStrength: 0.75
+  brandStrength: 0
   lightness: 0.1875
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
