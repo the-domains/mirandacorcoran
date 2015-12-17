@@ -1,6 +1,6 @@
 name: MirandaCorcoran
 favicon: null
-layout_spectrum: 0.49308
+layout_spectrum: 0.00099
 typography_spectrum: 0.75198
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#2d2d2d'
     - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-    - '#ffffff'
-  brandStrength: 0.5
+    - '#616161'
+    - '#b0b0b0'
+    - '#888888'
+  brandStrength: 0.75
   lightness: 0.1875
-  saturation: 0.75
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
